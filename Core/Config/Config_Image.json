@@ -1,0 +1,10 @@
+{
+    "Crop Min Width": 590,
+    "Crop Max Width": 1050,
+    "Crop Min Height": 175,
+    "Crop Max Height": 1615,
+    "Digit Min Width": 15,
+    "Digit Min Height": 20,
+    "Dilation Width": 19,
+    "Dilation Height": 1
+}
